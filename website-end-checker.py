@@ -19,7 +19,7 @@ try:
         if request.status_code == 200:
             print("Find end : ", tar)
         else:
-            print("End {} does exist ".format(value))
+            print("End {} doesn't exist ".format(value))
 
 except:
     pass
