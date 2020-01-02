@@ -1,8 +1,9 @@
 import requests
 
 print('''
-        Exploit = Website end checker
+        Name = Website end checker
         Author = Subnetix
+        Version = 1.0
         Exemple : exemple.com/
         Note : when you enter the link don't forget to print the "http(s) and the "/"
 ''')
