@@ -3,8 +3,7 @@ import requests
 print('''
         Name = Website end checker
         Author = Subnetix
-        Version = 1.0
-        Exemple : exemple.com/
+        Exemple : http(s)://exemple.com/
         Note : when you enter the link don't forget to print the "http(s) and the "/"
 ''')
 
@@ -23,6 +22,4 @@ try:
             print("End {} doesn't exist ".format(value))
 
 except:
-    pass
-
-    
+    print("Error ...")
