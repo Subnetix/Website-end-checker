@@ -10,5 +10,5 @@ It's a small script for found end of website.
   End : https://www.example.com/passwd doesn't exist
 
 
-And now for example you can brute force the website .
+
   
